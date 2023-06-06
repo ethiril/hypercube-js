@@ -27,13 +27,7 @@ browserify main.js -o bundle.js
 
 ## Usage
 
-The 4D hypercube rotates slowly around the XW plane, creating an intriguing 3D representation of a higher-dimensional object. You can interact with the visualization by:
-
-- Zooming: Use the mouse scroll wheel to zoom in or out.
-
-## Contributing
-
-Contributions to the project are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
+The 4D hypercube rotates slowly around the XW plane, creating an intriguing 3D representation of a higher-dimensional object.
 
 ## License
 
