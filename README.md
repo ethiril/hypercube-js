@@ -3,7 +3,7 @@
 This project provides a visualization of a 4D hypercube (tesseract) rotating in 3D space. The hypercube is rendered using the Three.js library and can be viewed in modern web browsers.
 
 ## Demo
-i![Hypercube GIF](hypercube.gif)
+![Hypercube GIF](hypercube.gif)
 
 ## Getting Started
 
