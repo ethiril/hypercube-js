@@ -25,10 +25,6 @@ browserify main.js -o bundle.js
 
 5. Open the `index.html` file in a web browser to view the 4D hypercube visualization.
 
-## Usage
-
-The 4D hypercube rotates slowly around the XW plane, creating an intriguing 3D representation of a higher-dimensional object.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
